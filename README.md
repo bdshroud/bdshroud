@@ -6,7 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bdshroud&label=Profile%20views&color=0e75b6&style=flat" alt="bdshroud" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bdshroud" alt="bdshroud" /></a> </p>
+<h3 align="center">🏆 GitHub Profile Trophies</h3>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=bdshroud&theme=flat&no-frame=true&margin-w=15" alt="GitHub Profile Trophies" />
+</p>
 
 <p align="left"> <a href="https://twitter.com/bdshroud" target="blank"><img src="https://img.shields.io/twitter/follow/bdshroud?logo=twitter&style=for-the-badge" alt="bdshroud" /></a> </p>
 
