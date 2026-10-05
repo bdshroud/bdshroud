@@ -1,119 +1,79 @@
-# Hi, I'm Mohammad Yasin 👋
+<div align="center">
 
-### Full Stack & AI Software Developer
+<div data-importer="image" align="center">
+  <img data-importer="image" style="width: 100%; height: auto;" src="https://i.imgur.com/n2v6gcU.png"  />
+</div>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=bdshroud&label=Profile%20views&color=0e75b6&style=flat" alt="bdshroud" />
-</p>
+<br/>
 
-## 👨‍💻 About Me
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=0077B5&center=true&vCenter=true&width=600&lines=Sub-Assistant+Engineer+%40+Akij+Bashir+Glass;Learning+Next.js+%26+Exploring+React.js;Building+Web+Apps+One+Commit+at+a+Time;Based+in+Bangladesh+%F0%9F%87%A7%F0%9F%87%A9](https://readme-typing-svg.demolab.com?font=Balsamiq+Sans&weight=700&size=22&duration=3000&pause=2004&color=3752FF&width=500&lines=Sub-Assistant+Engineer+at+Akij+Bashir+Glass;Learning+Next.js+%26+Exploring+React.js;And+more+new+web+technologies;Building+Web+Apps+One+Commit+at+a+Time](https://readme-typing-svg.demolab.com/demo/?font=Balsamiq+Sans&weight=700&size=22&duration=3000&pause=2004&color=3752FF&lines=Learning+Next.js+%26+Exploring+React.js;And+more+new+web+technologies;Building+Web+Apps+One+Commit+at+a+Time" alt="Typing SVG" />
 
-I'm a passionate software developer focused on building modern, scalable,
-and user-friendly web applications.
+</div>
 
-I enjoy turning ideas into real-world products and continuously improving
-my skills through practical projects.
+<br/>
 
-- 🚀 Currently exploring **Next.js, React.js and modern web technologies**
-- 🔨 Working on **Laravel-based web applications**
-- 📚 Learning and improving my **Full Stack Development** skills
-- 🤖 Interested in **AI-powered web applications**
-- 💡 I enjoy solving problems and building useful digital products
-- 🌱 Always learning something new
+## 👋 About Me
 
----
+<table>
+<tr>
+<td width="100%">
 
-## 🛠️ Skills & Technologies
+- 🇧🇩 &nbsp;I'm **Mohammad Yasin**, based in Bangladesh
+- 📚 &nbsp;Currently learning **Next.js**, exploring **React.js**, and diving into new web technologies
+- 💻 &nbsp;I enjoy building web applications and sharpening my development skills
+- ⚡ &nbsp;In my free time, I love coding, experimenting with ideas, and creating something new
 
-### Frontend
+</td>
+</tr>
+</table>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
-</p>
+<br/>
 
-### Backend & Database
+<h3>🛠️ Languages & Tools</h3> 
+🌐 HTML5 • 🎨 CSS3 • ⚡ JavaScript • 🔷 TypeScript
+⚛️ React.js • ▲ Next.js • 🎨 Tailwind CSS
+🟢 Node.js • 🚂 Express.js • 🍃 MongoDB
+🐙 Git • 🐙 GitHub • 💻 VS Code
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,mongodb,mysql" />
-</p>
+## 🛠️ Tech Stack
 
-### Tools & Development
+<div align="center">
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux" />
-</p>
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind,nodejs,express,mongodb,git,github,vscode,eslint&theme=dark" />
 
----
+</div>
 
-## 🚀 Current Activities
+<br/>
 
-- 🔭 Working on modern web applications
-- ⚡ Exploring **Next.js & React.js**
-- 🧩 Developing applications with **Laravel**
-- 🤖 Exploring AI integration in web applications
-- 🌐 Building and improving personal projects
-- 📖 Practicing clean, reusable and scalable code
+<div align="center">
 
----
+| Frontend | Backend | Tools |
+|:---:|:---:|:---:|
+| HTML5 · CSS3 · JavaScript · TypeScript | Node.js · Express.js · MongoDB | Git · GitHub · VS Code |
+| React.js · Next.js · Tailwind CSS | REST APIs | ESLint |
 
-## 📊 GitHub Statistics
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bdshroud&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bdshroud&theme=tokyonight&hide_border=true" />
-</p>
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bdshroud&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
 
----
+<br/>
 
-## 🌐 Connect With Me
+<img src="https://streak-stats.demolab.com?user=bdshroud&theme=tokyonight&hide_border=true" alt="Yasin's GitHub Streak" />
 
-<p align="left">
+<br/>
 
-<a href="https://github.com/bdshroud">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+</div>
 
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+<br/>
 
-<a href="mailto:YOUR_EMAIL@example.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+<div align="center">
 
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2A8,100:0077B5&height=100&section=footer" width="100%"/>
 
-📍 **Location:** Bangladesh  
-📧 **Email:** YOUR_EMAIL@example.com
+<i>Thanks for stopping by! Feel free to connect 🚀</i>
 
----
-
-## 💻 Featured Projects
-
-| Project | Description | Tech |
-|---|---|---|
-| Project One | Modern web application | Next.js, React, Tailwind |
-| Project Two | Laravel-based application | Laravel, PHP, MySQL |
-
----
-
-## 🐍 Contribution Activity
-
-![Snake animation](https://raw.githubusercontent.com/bdshroud/bdshroud/output/github-contribution-grid-snake.svg)
-
----
-
-<h3 align="center">
-  🚀 Code • Build • Learn • Improve
-</h3>
-
-<p align="center">
-  Thanks for visiting my profile!
-</p>
+</div>
