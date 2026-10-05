@@ -1,7 +1,7 @@
 <div align="center">
 
 <div data-importer="image" align="center">
-  <img data-importer="image" style="width: 100%; height: auto;" src="./yain.png"/>
+  <img data-importer="image" style="width: 100%; height: auto;" src="https://imgur.com/a/Vb8xzq8"/>
 </div>
 
 <br/>
