@@ -1,7 +1,7 @@
 <div align="center">
 
 <div data-importer="image" align="center">
-  <img data-importer="image" style="width: 100%; height: auto;" src="https://imgur.com/a/Vb8xzq8"/>
+  <img data-importer="image" style="width: 100%; height: auto;" src="https://i.imgur.com/ZfOve4G.png"/>
 </div>
 
 <br/>
