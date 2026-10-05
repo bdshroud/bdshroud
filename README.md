@@ -139,8 +139,3 @@ Each pinned repository should include:
 <i>Thanks for stopping by! Feel free to connect.</i>
 
 </div>
-"""
-
-out = Path("/mnt/data/README_updated.md")
-out.write_text(readme, encoding="utf-8")
-print(f"Created: {out}")
