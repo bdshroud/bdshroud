@@ -1,6 +1,4 @@
-from pathlib import Path
-
-readme = """<div align="center">
+<div align="center">
 
 <!-- GitHub Profile Banner -->
 <img src="./assets/github-banner.png" alt="Mohammad Yasin GitHub Banner" width="100%" />
